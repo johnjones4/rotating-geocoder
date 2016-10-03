@@ -1,5 +1,4 @@
 var NodeGeocoder = require('node-geocoder');
-var async = require('async');
 
 module.exports = function(config) {
   var geocoders = [
