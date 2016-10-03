@@ -1,0 +1,26 @@
+{
+  "name": "rotating-geocoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjones4/rotating-geocoder.git"
+  },
+  "author": "John Jones <johnjones4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjones4/rotating-geocoder/issues"
+  },
+  "homepage": "https://github.com/johnjones4/rotating-geocoder#readme",
+  "dependencies": {
+    "node-geocoder": "^3.15.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.1.0"
+  }
+}
